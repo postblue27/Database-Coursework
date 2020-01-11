@@ -1,0 +1,50 @@
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\bin\Debug\CarMarket_db.mdf
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\bin\Debug\CarMarket_db_log.ldf
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\bin\Debug\CurseAche_db.exe.config
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\bin\Debug\CurseAche_db.exe
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\bin\Debug\CurseAche_db.pdb
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.csprojAssemblyReference.cache
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.Form1.resources
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.Properties.Resources.resources
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.csproj.GenerateResource.cache
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.csproj.CoreCompileInputs.cache
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.exe
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.pdb
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.EditCar.resources
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.EditClient.resources
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.EditEmployee.resources
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.EditSale.resources
+C:\Users\Дом\source\repos\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.RandomRequest.resources
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\bin\Debug\CarMarket_db.mdf
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\bin\Debug\CarMarket_db_log.ldf
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\bin\Debug\CurseAche_db.exe.config
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\bin\Debug\CurseAche_db.exe
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\bin\Debug\CurseAche_db.pdb
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.csprojAssemblyReference.cache
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.EditCar.resources
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.EditClient.resources
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.EditEmployee.resources
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.EditSale.resources
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.Form1.resources
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.Properties.Resources.resources
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.RandomRequest.resources
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.csproj.GenerateResource.cache
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.exe
+C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.pdb
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\bin\Debug\CarMarket_db.mdf
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\bin\Debug\CarMarket_db_log.ldf
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\bin\Debug\CurseAche_db.exe.config
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\bin\Debug\CurseAche_db.exe
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\bin\Debug\CurseAche_db.pdb
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.csprojAssemblyReference.cache
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.EditCar.resources
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.EditClient.resources
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.EditEmployee.resources
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.EditSale.resources
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.Form1.resources
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.Properties.Resources.resources
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.RandomRequest.resources
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.exe
+C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.pdb

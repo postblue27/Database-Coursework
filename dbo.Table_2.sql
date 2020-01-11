@@ -1,0 +1,12 @@
+﻿CREATE TABLE [dbo].[Table]
+(
+	[Id] INT NOT NULL PRIMARY KEY,
+	[Name] NVARCHAR(MAX) NOT NULL,
+	[Post] NVARCHAR(MAX) NOT NULL,
+	[PhoneNumber] NVARCHAR(MAX) NOT NULL,
+	[Passport] NVARCHAR(MAX) NOT NULL,
+	[BirthDate] DATE NOT NULL,
+	[Residence] NVARCHAR(MAX) NOT NULL,
+	[Email] NVARCHAR(MAX) NOT NULL,
+	[StartWorkingDate] DATE NOT NULL
+)
