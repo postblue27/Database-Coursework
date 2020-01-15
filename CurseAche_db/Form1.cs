@@ -18,8 +18,9 @@ namespace CurseAche_db
         public Form1()
         {
             InitializeComponent();
+            string s = System.Environment.CurrentDirectory + @"\CarMarket_db.mdf;Integrated Security=True";
         }
-        const string ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\CarMarket_db.mdf;Integrated Security=True";
+        const string ConnectionString = @"Data Source=|DataDirectory|\CarMarket_db.mdf;Integrated Security=True";
         private void Form1_Load(object sender, EventArgs e)
         {
             dataGridView1.AutoGenerateColumns = true;

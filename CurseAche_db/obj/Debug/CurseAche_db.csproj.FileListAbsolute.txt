@@ -29,7 +29,6 @@ C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.Form1.re
 C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.Properties.Resources.resources
 C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.RandomRequest.resources
 C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.csproj.GenerateResource.cache
-C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.csproj.CoreCompileInputs.cache
 C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.exe
 C:\Users\Nazar\Desktop\CurseAche_db\CurseAche_db\obj\Debug\CurseAche_db.pdb
 C:\Users\nazar\Desktop\3-4 semester\CurseAche_db\CurseAche_db\bin\Debug\CarMarket_db.mdf
